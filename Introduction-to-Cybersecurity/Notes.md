@@ -8,130 +8,130 @@ This section covers cybersecurity fundamentals, including basic concepts, termin
 
 ### **1. Introduction to Cybersecurity Concepts**
 - [ ] **Understand the Basics of Cybersecurity**  
-  - [ ] What is cybersecurity and why it is important?
-  - [ ] Key differences between **Information Security**, **Network Security**, and **Cybersecurity**.
+  -  What is cybersecurity and why it is important?
+  -  Key differences between **Information Security**, **Network Security**, and **Cybersecurity**.
 - [ ] **The Cybersecurity Landscape**  
-  - [ ] Types of cyber threats: **Malware**, **Ransomware**, **Phishing**, **Denial of Service (DoS)**, **Advanced Persistent Threats (APTs)**.
-  - [ ] Real-world examples of cybersecurity breaches (e.g., **SolarWinds**, **WannaCry**).
+  -  Types of cyber threats: **Malware**, **Ransomware**, **Phishing**, **Denial of Service (DoS)**, **Advanced Persistent Threats (APTs)**.
+  -  Real-world examples of cybersecurity breaches (e.g., **SolarWinds**, **WannaCry**).
   
 ---
 
 ### **2. Cybersecurity Fundamentals: The CIA Triad**
 - [ ] **Confidentiality, Integrity, Availability (CIA Triad)**  
-  - [ ] Learn how these three principles form the foundation of cybersecurity practices.
+  -  Learn how these three principles form the foundation of cybersecurity practices.
 - [ ] **Authentication, Authorization, and Accounting (AAA)**  
-  - [ ] Understand the role of identity management, access controls, and user permissions.
+  -  Understand the role of identity management, access controls, and user permissions.
 - [ ] **Risk Management in Cybersecurity**  
-  - [ ] How to assess, manage, and mitigate risks.
+  -  How to assess, manage, and mitigate risks.
 
 ---
 
 ### **3. Networking Basics for Cybersecurity**
-- **Networking Concepts**  
+- [ ] **Networking Concepts**  
   - **TCP/IP** stack, **DNS**, **HTTP/HTTPS**, **SMTP**, **FTP**.
   - OSI Model (Layers 1-7) and how it relates to cybersecurity.
-- **Basic Network Devices and Components**  
+- [ ] **Basic Network Devices and Components**  
   - Routers, switches, firewalls, and intrusion detection/prevention systems (IDS/IPS).
   
 ---
 
 ### **4. Cryptography Basics**
-- **Understanding Encryption**  
+- [ ] **Understanding Encryption**  
   - **Symmetric** vs. **Asymmetric** encryption (AES, RSA).
   - **Hashing algorithms** (MD5, SHA-1, SHA-256) and their role in security.
-- **Public Key Infrastructure (PKI)**  
+- [ ] **Public Key Infrastructure (PKI)**  
   - Digital certificates, SSL/TLS, Certificate Authorities (CAs).
-- **Cryptographic Protocols**  
+- [ ] **Cryptographic Protocols**  
   - How **SSL/TLS** secures communication over the internet.
 
 ---
 
 ### **5. Security Tools and Technologies**
-- **Antivirus/Anti-malware Tools**  
+- [ ] **Antivirus/Anti-malware Tools**  
   - Understand how antivirus software detects and prevents malware attacks.
-- **Firewalls and Security Devices**  
+- [ ] **Firewalls and Security Devices**  
   - Basic configurations of **stateful** and **stateless firewalls**.
-- **Encryption Tools**  
+- [ ] **Encryption Tools**  
   - Tools for encrypting data, such as **GPG** and **OpenSSL**.
 
 ---
 
 ### **6. Types of Cyber Attacks**
-- **Malware Types**  
+- [ ] **Malware Types**  
   - Viruses, Worms, Trojans, Spyware, and Rootkits.
-- **Phishing & Social Engineering**  
+- [ ] **Phishing & Social Engineering**  
   - Learn about phishing emails, spear phishing, baiting, and tailgating attacks.
-- **Denial of Service (DoS) and Distributed DoS (DDoS)**  
+- [ ] **Denial of Service (DoS) and Distributed DoS (DDoS)**  
   - What these attacks are and how they disrupt services.
-- **Man-in-the-Middle (MITM) Attacks**  
+- [ ] **Man-in-the-Middle (MITM) Attacks**  
   - Learn how attackers intercept and alter communications between two parties.
 
 ---
 
 ### **7. Vulnerability Assessment & Penetration Testing Basics**
-- **What is Vulnerability Assessment?**  
+- [ ] **What is Vulnerability Assessment?**  
   - Difference between vulnerability scanning and manual penetration testing.
   - Learn how vulnerability scanners (e.g., **Nessus**, **OpenVAS**) work.
-- **What is Penetration Testing (Pen Testing)?**  
+- [ ] **What is Penetration Testing (Pen Testing)?**  
   - Understand the steps in a pen test: **Reconnaissance**, **Scanning**, **Exploitation**, **Post-Exploitation**, and **Reporting**.
   
 ---
 
 ### **8. Security Policies and Best Practices**
-- **Security Awareness Training**  
+- [ ] **Security Awareness Training**  
   - Importance of training employees on phishing, social engineering, password security, etc.
-- **Common Security Policies**  
+- [ ] **Common Security Policies**  
   - **Password Policies**, **Acceptable Use Policies**, and **Incident Response Plans**.
   
 ---
 
 ### **9. Incident Response and Management**
-- **Incident Response Lifecycle**  
+- [ ] **Incident Response Lifecycle**  
   - **Preparation**, **Detection and Analysis**, **Containment**, **Eradication**, **Recovery**, and **Lessons Learned**.
-- **Tools for Incident Detection**  
+- [ ] **Tools for Incident Detection**  
   - Basic tools like **SIEM** (Splunk, IBM QRadar) and **Endpoint Detection and Response (EDR)** solutions.
 
 ---
 
 ### **10. Ethical Hacking Overview**
-- **Ethical Hacking vs. Black-hat Hacking**  
+- [ ] **Ethical Hacking vs. Black-hat Hacking**  
   - Differences between ethical hackers and malicious hackers.
-- **Legal Aspects of Hacking**  
+- [ ] **Legal Aspects of Hacking**  
   - Understand the **Computer Fraud and Abuse Act (CFAA)** and the importance of written consent in penetration testing.
 
 ---
 
 ### **11. Security Frameworks and Compliance**
-- **Overview of Security Frameworks**  
+- [ ] **Overview of Security Frameworks**  
   - **NIST Cybersecurity Framework**, **ISO 27001**, **CIS Controls**.
-- **Regulatory Compliance**  
+- [ ] **Regulatory Compliance**  
   - Learn about **GDPR**, **HIPAA**, **PCI DSS**, and **SOC 2** compliance.
 
 ---
 
 ### **12. Cloud Security Basics**
-- **Cloud Computing Models**  
+- [ ] **Cloud Computing Models**  
   - **IaaS (Infrastructure as a Service)**, **PaaS (Platform as a Service)**, and **SaaS (Software as a Service)**.
-- **Cloud Security Challenges**  
+- [ ] **Cloud Security Challenges**  
   - Understand key concerns around data privacy, security misconfigurations, and the **Shared Responsibility Model**.
 
 ---
 
 ### **13. The Future of Cybersecurity**
-- **Emerging Trends**  
+- [ ] **Emerging Trends**  
   - **AI/ML** in cybersecurity, **Quantum Computing**, and **Blockchain** applications in security.
-- **Cybersecurity Threat Intelligence**  
+- [ ] **Cybersecurity Threat Intelligence**  
   - The role of threat intelligence in proactive defense strategies.
 
 ---
 
 ### **14. Start Practicing and Applying Your Knowledge**
-- **Hands-on Practice**  
+- [ ] **Hands-on Practice**  
   - Set up a **home lab** using tools like **Wireshark**, **Kali Linux**, and **Metasploit** for penetration testing practice.
   - Participate in **Capture the Flag (CTF)** challenges and platforms like **TryHackMe** and **Hack The Box**.
   
 - **Get Certified**  
-  - Study for beginner certifications like **CompTIA Security+** and **Certified Ethical Hacker (CEH)** to validate your knowledge and skills.
+  - [ ] Study for beginner certifications like **CompTIA Security+** and **Certified Ethical Hacker (CEH)** to validate your knowledge and skills.
 
 ---
 
@@ -148,7 +148,3 @@ This section covers cybersecurity fundamentals, including basic concepts, termin
    - Continue learning through practice platforms like **TryHackMe**, **Hack The Box**, and real-world labs.
 
 ---
-
-This to-do list will guide you through all the fundamental topics you'll need to master as you begin your journey in cybersecurity. You can adjust the pace depending on your prior knowledge and availability. Once you're comfortable with the basics, you can progress to more advanced topics.
-
-Let me know if you need any additional resources or explanations for any topic!
