@@ -62,7 +62,7 @@ This section covers cybersecurity fundamentals, including basic concepts, termin
 - [ ] **Phishing & Social Engineering**  
   - Learn about phishing emails, spear phishing, baiting, and tailgating attacks.
 - [ ] **Denial of Service (DoS) and Distributed DoS (DDoS)**  
-  - What these attacks are and how they disrupt services.
+  - What these attacks are and how do they disrupt services.
 - [ ] **Man-in-the-Middle (MITM) Attacks**  
   - Learn how attackers intercept and alter communications between two parties.
 
