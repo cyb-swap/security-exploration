@@ -26,7 +26,7 @@ This section covers cybersecurity fundamentals, including basic concepts, termin
 
 ---
 
-### **3. Networking Basics for Cybersecurity** (https://github.com/cyb-swap/security-exploration/blob/3d727573efe8e7260f5bffad841a0bf20645b976/Networking-Fundamentals/Notes.md)
+### **[3. Networking Basics for Cybersecurity]** (https://github.com/cyb-swap/security-exploration/blob/3d727573efe8e7260f5bffad841a0bf20645b976/Networking-Fundamentals/Notes.md)
 
 Cybersecurity relies heavily on networking concepts, as most cyber threats exploit vulnerabilities in network infrastructure. This course will cover essential networking topics that form the foundation for understanding cybersecurity threats, defenses, and best practices.
 
