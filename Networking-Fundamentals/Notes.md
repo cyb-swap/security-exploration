@@ -21,7 +21,7 @@ This section covers the basics of computer networks, network topologies, protoco
 ### **2. OSI and TCP/IP Models**
 - [ ] **OSI Model (7 Layers)**  
   - Physical Layer
-      -Functions of the Physical Layer
+      - Functions of the Physical Layer
         - Bit Synchronization: The physical layer synchronizes the bits by providing a clock. This clock controls both sender and receiver thus providing synchronization at the bit level.
         - Bit Rate Control: The Physical layer also defines the transmission rate i.e. the number of bits sent per second.
         - Physical Topologies: Physical layer specifies how the different, devices/nodes are arranged in a network i.e. bus topology, star topology, or mesh topology.
