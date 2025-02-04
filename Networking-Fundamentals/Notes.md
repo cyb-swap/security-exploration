@@ -25,7 +25,23 @@ This section covers the basics of computer networks, network topologies, protoco
         - Bit Synchronization: The physical layer synchronizes the bits by providing a clock. This clock controls both sender and receiver thus providing synchronization at the bit level.
         - Bit Rate Control: The Physical layer also defines the transmission rate i.e. the number of bits sent per second.
         - Physical Topologies: Physical layer specifies how the different, devices/nodes are arranged in a network i.e. bus topology, star topology, or mesh topology.
-        - Transmission Mode: Physical layer also defines how the data flows between the two connected devices. The various transmission modes possible are Simplex, half-duplex and full duplex. 
+        - Transmission Mode: Physical layer also defines how the data flows between the two connected devices. The various transmission modes possible are Simplex, half-duplex and full duplex.
+      - Protocols in Physical Layer
+Typically, a combination of hardware and software programming makes up the physical layer. It consists of several protocols that control data transmissions on a network. The following are some examples of Layer 1 protocols:
+
+        - Ethernet (IEEE 802.3) – Widely used for wired networks.
+        - Wi-Fi (IEEE 802.11) – For wireless communication.
+        - Bluetooth (IEEE 802.15.1) – Short-range wireless communication.
+        - USB (Universal Serial Bus) – For connecting devices over short distances.
+
+    - Advantages of the Physical Layer
+      - It ensures devices can transmit and receive raw data over physical mediums.
+      - It provides universal standards for cables, connectors, and signaling, ensuring compatibility.
+      - Support for Various Media: Works with wired (e.g., Ethernet) and wireless (e.g., Wi-Fi) technologies.
+    - Limitations of the Physical Layer
+      - No Error Handling: Cannot detect or correct errors in data transmission.
+      - Susceptible to Physical Damage: Cables, connectors, and hardware failures can disrupt communication.
+      - No Data Interpretation: It only transmits bits and doesn’t understand or process the actual data.
   - Data Link Layer  
   - Network Layer  
   - Transport Layer  
