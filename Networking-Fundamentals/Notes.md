@@ -43,9 +43,9 @@ Typically, a combination of hardware and software programming makes up the physi
       - Susceptible to Physical Damage: Cables, connectors, and hardware failures can disrupt communication.
       - No Data Interpretation: It only transmits bits and doesn’t understand or process the actual data.
   - Data Link Layer
-    The data link layer is the second layer from the bottom in the OSI (Open System Interconnection) network architecture model. It is responsible for the node-to-node delivery of data within the same local network. Its major role is to ensure error-free transmission of information. DLL is also responsible for encoding, decoding, and organizing the outgoing and incoming data.
+    <p> The data link layer is the second layer from the bottom in the OSI (Open System Interconnection) network architecture model. It is responsible for the node-to-node delivery of data within the same local network. Its major role is to ensure error-free transmission of information. DLL is also responsible for encoding, decoding, and organizing the outgoing and incoming data.
 
-This is considered the most complex layer of the OSI model as it hides all the underlying complexities of the hardware from the other above layers. In this article, we will discuss Data Link Layer in Detail along with its functions, and sub-layers.
+This is considered the most complex layer of the OSI model as it hides all the underlying complexities of the hardware from the other above layers. </p>
   - Network Layer  
   - Transport Layer  
   - Session Layer  
